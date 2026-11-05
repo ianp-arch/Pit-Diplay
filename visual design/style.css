@@ -57,7 +57,7 @@ body {
 
 .team-logo {
     position: absolute;
-    left: 10px;
+    left: 30px;
     top: 50%;
     transform: translateY(-50%);
     width: 240px;
