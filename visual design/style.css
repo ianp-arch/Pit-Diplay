@@ -222,6 +222,11 @@ body {
     color: #a5b2a7;
 }
 
+/* MATCH SCHEDULE PANEL */
+.match-schedule{
+    min-width: 250 px;
+    min-height: 200 px;
+}
 
 
 /* RESPONSIVE DESIGN */
