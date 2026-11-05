@@ -80,7 +80,7 @@ body {
 }
 
 #date {
-    color: #2FBF2F;
+    color: #42CC42;
     font-size: 28px;
 }
 
@@ -95,8 +95,8 @@ body {
 .toolbar button {
     padding: 10px 18px;
     background: #142019;
-    color: #2FBF2F;
-    border: 1px solid #2FBF2F;
+    color: #42CC42;
+    border: 1px solid #42CC42;
     border-radius: 6px;
     font-weight: bold;
     cursor: pointer;
@@ -129,14 +129,14 @@ body {
     resize: both;
     background: #142019;
     border: 1px solid #245c32;
-    border-left: 4px solid #2FBF2F;
+    border-left: 4px solid #42CC42;
     border-radius: 10px;
     box-shadow: 0 0 12px rgba(57, 231, 95, 0.08);
 }
 
 .panel h2 {
     margin-top: 0;
-    color: #2FBF2F;
+    color: #42CC42;
     font-size: 18px;
     letter-spacing: 2px;
     cursor: grab;
@@ -155,7 +155,7 @@ body {
 .panel.dragging {
     z-index: 1000;
     opacity: 0.85;
-    border: 2px dashed #2FBF2F;
+    border: 2px dashed #42CC42;
 }
 
 
@@ -192,7 +192,7 @@ body {
     padding: 8px;
     background: #000000;
     color: white;
-    border: 1px solid #2FBF2F;
+    border: 1px solid #42CC42;
     border-radius: 4px;
 }
 
@@ -200,7 +200,7 @@ body {
     width: 100%;
     margin-top: 10px;
     padding: 8px;
-    background: #2FBF2F;
+    background: #42CC42;
     color: black;
     border: none;
     border-radius: 4px;
